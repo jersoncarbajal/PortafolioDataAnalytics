@@ -1,7 +1,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-[![HitCount](https://hits.dwyl.com/dwyl/hits.svg)](https://github.com/carbajaljerson/PI02_SiniestrosViales_CABA/)
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
 
 
@@ -115,14 +114,14 @@ Se observa que la mayor cantidad de siniestros viales ocurren al este de la Ciud
 La **tasa de homicidios en siniestros viales** está definida como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. <br>Su fórmula es: 
     (Número de homicidios en siniestros viales / Población total) * 100,000
 
-<p align="center"><img src="src\kpi01.png" height=300 weight=400></p>
+<p align="center"><img src="src\kpi01.png" height=300 width=650></p>
     En este caso, la tasa de homicidios en siniestros viales del Semestre 2020 respecto al semestre anterior del 2019 representa una mejor variación y esta por encima del objetivo del 10% alcanzando el objetivo propuesto con un 34%.
 
 * *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*
 
     Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: <br>(Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
 
-<p align="center"><img src="src\kpi02.png" height=340 weight=500></p>
+<p align="center"><img src="src\kpi02.png" height=340 width=650></p>
     En este caso, el año 2020 respecto anterior del 2019 sobre el número de accidentes mortales en moto representa una mejor variación y esta por encima
     del objetivo del 7% alcanzando el objetivo propuesto con un 42%
     
@@ -130,7 +129,7 @@ La **tasa de homicidios en siniestros viales** está definida como el número de
 
     Su fórmula para medir la evolución de los accidentes mortales es: (Número de accidentes mortales en el año anterior - Número de accidentes mortales en el año actual) / (Número de accidentes mortales en el año anterior) * 100
 
-<p align="center"><img src="src\kpi03.png" height=340 weight=450></p>
+<p align="center"><img src="src\kpi03.png" height=340 width=650></p>
     En este caso, el año 2019 respecto anterior del 2018 sobre el número de accidentes mortales representa una mejor variación y esta por encima
     del objetivo del 19% alcanzando el objetivo propuesto con un 30%.
 
@@ -141,11 +140,11 @@ El Dashboard desarrollado se encuentra en el siguiente enlace [Dashboard](https:
 
 Mis principales conclusiones sobre la evolución de los accidentes de tráfico en CABA son los siguientes:
  
-✅ Entre 2016 al 2018, se evidenció un aunmento significativo en la cantidad de siniestros viales. Sin embargo en los años posteriores, esta tendencia comenzó a reducirse (2019-2021). Se verificó que las motos son los vehiculos con mayor participación en los accidentes, así como el rango de edad comprendido entre 18 y 35 años.  
+✅ Entre 2016 al 2018, se evidenció un aunmento significativo en la cantidad de siniestros viales. Sin embargo en los años posteriores, esta tendencia comenzó a reducirse (2019-2021). Se verificó que las motos son los vehiculos con mayor participación en los accidentes, así como el rango de edad comprendido entre 18 y 34 años.  
   
 ✅ La comuna 1, tiene asociada la mayor concentración de accidentes y son las avenidas "9 de Julio" y "Paseo Colón" las que registran un mayor número de víctimas.
 
-✅ El rango de edad de las víctimas varián según al sexo: en los hombres, se sitúa entre los 18 y 35 años mientras que en las mujeres la edad es superior a los 55 años.
+✅ El rango de edad de las víctimas varián según al sexo: en los hombres, se sitúa entre los 18 y 34 años mientras que en las mujeres la edad es a partir de los 55 años.
 
 ✅ El rol de la víctima que está relacionado a una mayor cantidad de accidentes es el Conductor, en comparación con el pasajero acompañante.
  
@@ -156,7 +155,7 @@ Mis principales conclusiones sobre la evolución de los accidentes de tráfico e
 
 - Se debe de generar campañas de concientización en las comunas que tienen un alto número de víctimas.
 - Eliminar la contaminación visual en las principales avenidas, ya que esto aumenta la distracción de los conductores.
-- Realizar campañas respecto a la seguridad vial hacia el sexo masculino sobre el rango de edad de 18 a 35 años y en mujeres que tienen una edad superior a 55 años.
+- Realizar campañas respecto a la seguridad vial hacia el sexo masculino sobre el rango de edad de 18 a 34 años y en mujeres que tienen una edad superior a 55 años.
 - Debe existir un reglamento más riguroso para la obtención de la licencia de vehículos,  así como establecer un control en el uso obligatorio de casco certificado.
 - Reforzar la seguridad vial por medio de operativos policiales en las principales avenidas, especificamente en el mes de Diciembre.
 
