@@ -76,7 +76,7 @@ El mapa de calor nos ayuda a obtener una representación visual de los puntos de
 <img src="src\mapa.png"  height=300 weight=400>
 </p>
 </br>
-Se observa que la mayor cantidad de siniestros viales ocurren al este de la Ciudad Autónoma de Buenos Aires, principalmente en las comunas 1 y 4.
+Se observa que la mayor cantidad de siniestros viales ocurren al este de la Ciudad de Buenos Aires, principalmente en las comunas 1 y 4.
 
 ## **3. Análisis de Datos**
 - Los tres principales vehículos y/o medios de transporte asociados a un mayor número de víctimas son las motos, seguidas por los autos y las bicicletas. Las motos causaron casi la mitad de las muertes, representando el 42%. Esto resalta la importancia de abordar factores como el comportamiento del conductor, la infraestructura vial y las medidas de seguridad para las motos, así como el uso de cascos certificados, con el fin de reducir la mortalidad en los accidentes.
