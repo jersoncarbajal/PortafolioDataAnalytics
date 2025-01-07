@@ -81,32 +81,23 @@ Se observa que la mayor cantidad de siniestros viales ocurren al este de la Ciud
 ## **3. Análisis de Datos**
 - Los tres principales vehículos y/o medios de transporte asociados a un mayor número de víctimas son las motos, seguidas por los autos y las bicicletas. Las motos causaron casi la mitad de las muertes, representando el 42%. Esto resalta la importancia de abordar factores como el comportamiento del conductor, la infraestructura vial y las medidas de seguridad para las motos, así como el uso de cascos certificados, con el fin de reducir la mortalidad en los accidentes.
 
+- El grupo etario con mayor incidencia en los accidentes es el de 18 a 34 años. Dado que se trata de una muestra joven, es necesario considerar que factores como el aumento de velocidad y las distracciones en la carretera, pueden contribuir a una mayor frecuencia de accidentes.
+
 </br>
 <p align="center" ><img src="src\analisis.png"  height=450 width=800></p>
 </br>
 
 
-- La mayor parte de los accidentes ocurrieron en las comunas 1, 4 y 9, por lo que estas áreas requieren una mayor atención para mejorar las medidas de seguridad vial. Factores como la alta densidad de población, el elevado volumen de tráfico, las redes de carreteras complejas y la interacción de diversos modos de transporte en estas comunas podrían estar contribuyendo al aumento de los accidentes de tránsito
-
-- En el mapa se localizan los puntos donde ocurrieron los accidentes lo cual es de gran utilidad para identificar las principales zonas con un mayor número de víctimas. Esto ayuda a reconocer las avenidas relacionadas a los siniestros y, con base en esta información, se deben implementar políticas urbanas para mitigar la tasa de mortalidad por siniestros viales.
+- La mayor parte de los accidentes ocurrieron en las comunas 1, 4 y 9, por lo que estas áreas requieren una mayor atención para mejorar las medidas de seguridad vial. En el mapa se localizan los puntos donde ocurrieron los accidentes lo cual es de gran utilidad para identificar las principales zonas con un mayor número de víctimas. Esto ayuda a reconocer las avenidas relacionadas a los siniestros y, con base en esta información, se deben implementar políticas urbanas para mitigar la tasa de mortalidad por siniestros viales.
 
 <p align="center">
 <img src="src\analisis02.png" height=450 width=800>
 </p>
 
-- El grupo etario con mayor incidencia en los accidentes es el de 18 a 35 años. Dado que se trata de una muestra joven, es necesario considerar que factores como el aumento de velocidad y las distracciones en la carretera, pueden contribuir a una mayor frecuencia de accidentes.
+- Los Lunes y Sábados son los días que presentan un mayor número de víctimas, los meses con mayor frecuencia de siniestros son: Agosto, Noviembre y Diciembre. En cuanto a la franja horaria, las horas entre 5 a.m. y 7 a.m. estan asociadas a un mayor número de víctimas.
 
 <p align="center">
-<img src="src\analisis03.png" height=300 weight=400>
-</p>
-
-
-
-
-- Los Lunes y Sábados son los días que presentan un mayor número de víctimas, los meses con mayor frecuencia de siniestros son Noviembre y Diciembre. En cuanto a la franja horaria, las horas entre 5-7 a.m. estan asociadas a un mayor número de víctimas.
-
-<p align="center">
-<img src="src\analisis07.png" height=500 weight=600>
+<img src="src\analisis07.png" height=450 width=800>
 </p>
 
 
