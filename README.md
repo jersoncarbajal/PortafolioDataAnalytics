@@ -10,7 +10,7 @@
 </p>
 
 
-## Siniestros Viales en la Ciudad Autónoma de Buenos Aires (CABA)
+## Siniestros Viales en la Ciudad Autónoma de Buenos Aires
 
 Es un proyecto de análisis de datos para el Observatorio de Movilidad y Seguridad Vial (OMSV) de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA). Los principales objetivos son obtener información, conocimiento y recomendaciones basados en el análisis de siniestros viales entre 2016 y 2021, con el fin de reducir las víctimas mortales.
 [Enlace del proyecto](https://github.com/jersoncarbajal/PortafolioDataAnalytics/tree/main/SiniestrosVialesCABA) 
