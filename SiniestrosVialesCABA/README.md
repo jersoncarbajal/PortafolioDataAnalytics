@@ -82,10 +82,9 @@ Se observa que la mayor cantidad de siniestros viales ocurren al este de la Ciud
 - Los tres principales vehículos y/o medios de transporte asociados a un mayor número de víctimas son las motos, seguidas por los autos y las bicicletas. Las motos causaron casi la mitad de las muertes, representando el 42%. Esto resalta la importancia de abordar factores como el comportamiento del conductor, la infraestructura vial y las medidas de seguridad para las motos, así como el uso de cascos certificados, con el fin de reducir la mortalidad en los accidentes.
 
 </br>
-<p align="center" >
-<img src="src\analisis.png"  height=450 weight=550>
-</p>
+<p align="center" ><img src="src\analisis.png"  height=450 width=800></p>
 </br>
+
 
 - La mayor parte de los accidentes ocurrieron en las comunas 1, 4 y 9, por lo que estas áreas requieren una mayor atención para mejorar las medidas de seguridad vial. Factores como la alta densidad de población, el elevado volumen de tráfico, las redes de carreteras complejas y la interacción de diversos modos de transporte en estas comunas podrían estar contribuyendo al aumento de los accidentes de tránsito
 
