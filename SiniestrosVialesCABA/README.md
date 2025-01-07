@@ -101,10 +101,10 @@ Se observa que la mayor cantidad de siniestros viales ocurren al este de la Ciud
 </p>
 
 
-- El sexo Masculino está asociado a un mayor porcentaje de siniestros viales,representando el 76%, y el rango etario predominante es de 18 a 35 años. En el caso del sexo femenino, se observa que, cuando la edad supera los 55 años y la franja horaria es de 9 a 15 horas, también hay un aumento en el número de víctimas.
+- El sexo Masculino está asociado a un mayor porcentaje de siniestros viales,representando el 77%, y el rango etario predominante es de 18 a 34 años. En cuanto a la franja horaria por rol los conductores y peatones estan asociados a un mayor número de víctimas.
 
 <p align="center">
-<img src="src\analisis06.png" height=400 weight=550>
+<img src="src\analisis06.png"  height=450 width=800>
 </p>
 
 
