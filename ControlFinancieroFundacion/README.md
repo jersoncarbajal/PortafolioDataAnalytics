@@ -1,4 +1,4 @@
-# Proyecto Control Financiero Fundación Potenciar Solidario
+# Proyecto Financiero Fundación Potenciar Solidario
 
 
 ## **Introducción**

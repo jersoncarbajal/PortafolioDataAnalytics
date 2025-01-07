@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
 
 
-# <h1 align="center">**`Siniestros Viales en la Ciudad Atónoma de Buenos Aires`**</h1>
+# <h1 align="center">**`Siniestros Viales en la Ciudad Autónoma de Buenos Aires`**</h1>
 
 Bienvenidos a continuación se presenta el desarrollo del Proyecto Individual de Análisis de Datos
 
@@ -29,7 +29,7 @@ En el 2022, el número de muertes por accidentes de tránsito alcanzó a 3828 mu
 
 El siguiente proyecto contiene los siguientes desarrollos:
 
-- Extracción Transformación y Carga sobre la data Hechos y de Victima
+- Extracción Transformación y Carga sobre la data Hechos y de Víctima
 - Análisis Exploratorio de Datos
 - Creación de Dashboard y Análisis con PowerBI
 - Creación de KPIs
