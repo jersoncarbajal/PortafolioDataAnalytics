@@ -6,7 +6,7 @@
 <br/>
 
 <p align=center>
-<img src="src\data.jpg" height="250" width="470">
+<img src="src\data.png" height="300" width="450">
 </p>
 <br/>
 
