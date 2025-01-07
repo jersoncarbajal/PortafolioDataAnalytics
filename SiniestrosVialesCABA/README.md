@@ -114,7 +114,7 @@ Se observa que la mayor cantidad de siniestros viales ocurren al este de la Ciud
 La **tasa de homicidios en siniestros viales** está definida como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. <br>Su fórmula es: 
     (Número de homicidios en siniestros viales / Población total) * 100,000
 
-<p align="center"><img src="src\kpi01.png" height=300 width=650></p>
+<p align="center"><img src="src\kpi01.png" height=340 width=650></p>
     En este caso, la tasa de homicidios en siniestros viales del Semestre 2020 respecto al semestre anterior del 2019 representa una mejor variación y esta por encima del objetivo del 10% alcanzando el objetivo propuesto con un 34%.
 
 * *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*
