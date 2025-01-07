@@ -155,7 +155,7 @@ Mis principales conclusiones sobre la evolución de los accidentes de tráfico e
 
 - Se debe de generar campañas de concientización en las comunas que tienen un alto número de víctimas.
 - Eliminar la contaminación visual en las principales avenidas, ya que esto aumenta la distracción de los conductores.
-- Realizar campañas respecto a la seguridad vial hacia el sexo masculino sobre el rango de edad de 18 a 34 años y en mujeres que tienen una edad superior a 55 años.
+- Realizar campañas respecto a la seguridad vial hacia el sexo masculino sobre el rango de edad de 18 a 34 años y en mujeres que tienen una edad a partir de los 55 años.
 - Debe existir un reglamento más riguroso para la obtención de la licencia de vehículos,  así como establecer un control en el uso obligatorio de casco certificado.
 - Reforzar la seguridad vial por medio de operativos policiales en las principales avenidas, especificamente en el mes de Diciembre.
 
