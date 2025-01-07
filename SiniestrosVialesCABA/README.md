@@ -46,7 +46,7 @@ Este proyecto se desarrolló en base al dataset denominado Homicidios, que se en
 Los datos utilizados para este proyecto de análisis, estan en el siguiente [enlace de descarga](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales) 
 
 
-## **DESARROLLO DEL PROYECTO ** :white_circle:
+## **DESARROLLO DEL PROYECTO ** :
 
 ## **1. Etapa del proceso ETL** :
 
