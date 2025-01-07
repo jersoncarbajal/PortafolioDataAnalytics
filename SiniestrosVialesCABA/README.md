@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
 
 
-# <h1 align="center">**`Siniestros Viales en la Ciudad Atónoma de Buenos Aires (CABA)`**</h1>
+# <h1 align="center">**`Siniestros Viales en la Ciudad Atónoma de Buenos Aires`**</h1>
 
 Bienvenidos a continuación se presenta el desarrollo del Proyecto Individual de Análisis de Datos
 
