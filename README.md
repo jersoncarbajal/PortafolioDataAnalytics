@@ -1,5 +1,8 @@
-<h1 style="text-align: center;">Portafolio de Análisis de Datos</h1>
+<div align="center">
 
+# Portafolio de Análisis de Datos
+
+</div>
 <br/>
 
 <p align=center>
