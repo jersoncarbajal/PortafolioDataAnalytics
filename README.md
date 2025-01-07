@@ -8,7 +8,7 @@
 <p align=center>
 <img src="src\data.png" height="300" width="450">
 </p>
-<br/>
+
 
 ## Siniestros Viales en la Ciudad Autónoma de Buenos Aires (CABA)
 
