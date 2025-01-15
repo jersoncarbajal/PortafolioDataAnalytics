@@ -2,19 +2,19 @@
 
 ## **Introducción**
 
-El presente proyecto se desarrolla bajo el perfil de un Data Analyst y tiene como objetivo la elaboración de un dashboard sobre la rotación de productos para la Alimentos S.A. Este proyecto busca proporcionar una solución accesible y efectiva para el seguimiento de productos vendidos, por vencer y vencidos. La implementación del dashboard permitirá tomar decisiones sobre la rotación de productos, optimizando así su impacto social.
+El presente proyecto se desarrolla bajo el perfil de un Data Analyst y tiene como objetivo la elaboración de un dashboard sobre la rotación de productos para la Alimentos S.A. Este proyecto busca proporcionar una solución accesible y efectiva para el seguimiento de productos vendidos, por vencer y vencidos. La implementación del dashboard no solo permitirá tomar decisiones estratégicas sobre la rotación de productos, sino que también facilitará la optimización del inventario, reduciendo pérdidas por caducidad de los productos.
 
 
 ## 📊 Alcance del Proyecto
 
 El siguiente proyecto contiene los siguientes desarrollos:
 
-- Macros para la creación de dimensiones y Power Query para el modelo. 
-- Creación de Dashboard y Análisis con Excel.
+- Macros para la creación de dimensiones, limpieza de los datos con Power Query y Power Pivot para el modelo. 
+- Análisis y Creación del Dashboard con Excel.
 
 ## **Datos**
 
-Los datos utilizados para este proyecto de análisis, estan en el siguiente [enlace de descarga](https://drive.google.com/drive/folders/1q_CB6sNsFPNmGh2QgZQtZshCPA8vMTyt?usp=sharing)
+Los datos utilizados para este proyecto de análisis, estan en el siguiente [enlace de descarga](https://docs.google.com/spreadsheets/d/1YtzxUmVJH8QCahaZhRGZ6MF3mbRS4xSP/edit?usp=sharing&ouid=115793885910200133810&rtpof=true&sd=true)
 
 
 ## **DESARROLLO DEL PROYECTO ** :
