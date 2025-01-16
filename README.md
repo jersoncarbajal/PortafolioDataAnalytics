@@ -25,7 +25,7 @@ Este proyecto de control financiero para la Fundación Potenciar Solidario permi
 
 ## Rendimiento de Entregas Restaurante
 Este proyecto tiene por finalidad mejorar los tiempos de entrega y la satisfacción del cliente. La solución brinda visualizaciones de tendencias e identifica patrones facilitando la toma de decisiones para optimizar los procesos de entrega y mejorar la experiencia del cliente. 
-[Enlace del proyecto](https://github.com/jersoncarbajal/PortafolioDataAnalytics/tree/main/ControlFinancieroFundacion)
+[Enlace del proyecto](https://github.com/jersoncarbajal/PortafolioDataAnalytics/tree/main/RendimientoEntregasRestaurante)
 
 
 ## Proyecto de Ventas de Videojuegos
