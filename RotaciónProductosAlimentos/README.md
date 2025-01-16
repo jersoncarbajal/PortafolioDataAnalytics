@@ -42,13 +42,19 @@ Se observa una mejora relativa en los meses subsiguientes, con marzo mostrando u
 
 
 *Distribución por Canal:*
-Los supermercados regionales y grandes cuentas presentan el mayor volumen de ventas mientras que los demás canales muestran un bajo rendimiento. 
-Los canales "Minimercados" y "Superetes" muestran un rendimiento inferior al esperado, sugiriendo oportunidades de mejora.
+Los supermercados regionales y grandes cuentas presentan el mayor volumen de ventas mientras que los demás canales muestran un bajo rendimiento. Los canales "Minimercados" y "Superetes" muestran un rendimiento inferior, sugiriendo oportunidades de mejora.
 
 *Comportamiento Regional:*
 La gestión de 41 ciudades por solo 5 supervisores sugiere una sobrecarga operativa que afecta la eficiencia.
 
 *Análisis por Sucursal:*
+Autoservicios muesta tiene un alto volumen de producto por vencer y conjuntamento con los productos vencidos son superiores al volumen de productos vendidos. Bajo rendimiento generalizado en las otras sucursales.
+
+*Rotación por Mes*
+El año comenzó con un 70% de productos por vencer y 15% de productos vencidos, alcanzando su punto crítico en febrero con un 80% de productos por vencer y 8% de productos vencidos. En marzo, los productos por vencer disminuyeron a 55% y los vencidos aumentaron a 11%, tendencia que mejoró en abril con 42% de productos por vencer y 10% de productos vencidos. Sin embargo, mayo mostró un retroceso, aumentando a 62% los productos por vencer, aunque los productos vencidos se redujeron a 8%.
+
+El período de junio a octubre mostró una alta volatilidad: comenzó con el mejor rendimiento en junio (42% total de productos en riesgo), seguido por un deterioro significativo en julio (85% en riesgo), para finalmente mostrar una recuperación gradual hasta octubre, cerrando con solo 28% de productos en riesgo.
+
 
 ## **4. Conclusión:** 
 La situación actual muestra un problema sistémico en la gestión de inventarios y distribución. El 22% combinado de productos vencidos y próximos a vencer requiere acción inmediata. La estructura actual con 5 supervisores para 41 ciudades puede estar contribuyendo a la ineficiencia operativa. Se recomienda una intervención inmediata enfocada en los canales de mayor riesgo y una reestructuración del sistema de distribución a mediano plazo.
