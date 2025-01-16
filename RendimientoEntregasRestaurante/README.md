@@ -47,7 +47,7 @@ Los mejores conductores como Patricia, Bailey y Bonnie mantienen un volumen simi
 <p align=center>
 <img src="src\dashboard003.png" height="400" weight="450">
 </p>
-El turno AM tiene un promedio de entrega de 91 minutos vs 87 minutos en la tarde.
+El turno de la mañana tiene un promedio de entrega de 91 minutos vs 87 minutos en la tarde.
 La puntualidad es mejor en la mañana donde el porcentaje de entregas puntuales es 83% mientras que en la tarde es 17% y respecto al porcentaje de demora el mayor porcentaje esta en la mañana con 86% en comparación en la tarde que es de 14% en la tarde. 
 La mayor parte de las ganancias (84.24%) se generan en el turno de la mañana. Los miércoles y jueves muestran picos de ganancia.
 </p>
