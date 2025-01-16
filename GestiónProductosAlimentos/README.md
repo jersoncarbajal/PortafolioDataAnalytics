@@ -53,7 +53,7 @@ La gestión de 41 ciudades por solo 5 supervisores sugiere una sobrecarga operat
 ## **4. Conclusión:** 
 La situación actual muestra un problema sistémico en la gestión de inventarios y distribución. El 22% combinado de productos vencidos y próximos a vencer requiere acción inmediata. La estructura actual con 5 supervisores para 41 ciudades puede estar contribuyendo a la ineficiencia operativa. Se recomienda una intervención inmediata enfocada en los canales de mayor riesgo y una reestructuración del sistema de distribución a mediano plazo.
 
-## **5. Recomendaciones**
+## **5. Recomendaciones:**
 - Implementar un plan para la gestión de los 558 productos próximos a vencer.
 - Investigar el éxito de la región Occidente y Santander para replicar mejores prácticas
 - Establecer alertas tempranas para los productos con baja rotación.
