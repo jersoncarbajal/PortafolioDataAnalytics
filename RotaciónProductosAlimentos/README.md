@@ -1,4 +1,4 @@
-# Proyecto Rotación de Produstos 
+# Proyecto Rotación de Productos 
 
 ## **Introducción**
 
@@ -29,7 +29,7 @@ Los datos utilizados para este proyecto de análisis, estan en el siguiente [enl
 ## **3. Análisis de Datos (Dashboard)**
 
 <p align=center>
-<img src="src\dashboard.png" height="425" width="500">
+<img src="src\dashboard.png" height="425" width="1000">
 </p>
 
 *Métricas Globales:*
