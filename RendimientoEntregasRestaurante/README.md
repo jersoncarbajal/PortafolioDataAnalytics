@@ -33,19 +33,24 @@ Los datos utilizados para este proyecto de análisis, estan en el siguiente [enl
 <img src="src\dashboard001.png" height="425" weight="500">
 </p>
 
-Se observa una baja significativa en las entregas puntuales, pasando de 71.65% en enero a un alarmante 18.74% en abril. 
-El tiempo promedio de entrega se ha incrementado en los meses de febrero, marzo y abril considerablemente, paso de 43 minutos en enero a 95 minutos en abril. 
-
+Se observa una baja significativa en las entregas puntuales, pasando de 71.46% en enero a un alarmante 19.87% en abril. 
+El tiempo promedio de entrega se ha incrementado en los meses de febrero, marzo y abril considerablemente, paso de 43 minutos en enero a 95 minutos en abril. Este patrón sugiere problemas críticos en la capacidad operativa que necesitan atención inmediata.
+</p>
 <p align=center>
 <img src="src\dashboard002.png" height="400" weight="450">
 </p>
-La puntualidad ha caído drásticamente de tener 13 mil entregas en enero a 3.4 mil en abril. Las entregas tardías aumentaron de 5.1 mil a 14.7 mil. El promedio general muestra que el 52% de las entregas son tardías, una cifra alarmante para el rubro. El volumen de pedidos se mantiene constante lo que daría a entender que el problema no es por aumento de demanda, sino operativo. 
+La puntualidad ha caído drásticamente de tener 13 mil entregas en enero a 3.4 mil en abril. Las entregas tardías aumentaron de 4.4 mil a 13.7 mil. El promedio general muestra que el 46% de las entregas son tardías, una cifra alarmante para el rubro. El volumen de pedidos se mantiene constante lo que daría a entender que el problema no es por aumento de demanda, sino operativo.
 
+Los mejores conductores como Patricia, Bailey y Bonnie mantienen un volumen similar de entregas (236-244). 
+
+</p>
 <p align=center>
 <img src="src\dashboard003.png" height="400" weight="450">
 </p>
-
-La mayor parte de las ganancias (84.25%) se generan en el turno de la mañana. Los miércoles y jueves muestran picos de ganancia.
+El turno AM tiene un promedio de entrega de 91 minutos vs 87 minutos en la tarde.
+La puntualidad es mejor en la mañana donde el porcentaje de entregas puntuales es 83% mientras que en la tarde es 17% y respecto al porcentaje de demora el mayor porcentaje esta en la mañana con 86% en comparación en la tarde que es de 14% en la tarde. 
+La mayor parte de las ganancias (84.24%) se generan en el turno de la mañana. Los miércoles y jueves muestran picos de ganancia.
+</p>
 <p align=center>
 <img src="src\dashboard003.png" height="400" weight="450">
 </p>
