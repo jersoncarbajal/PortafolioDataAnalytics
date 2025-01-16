@@ -50,7 +50,7 @@ La gestión de 41 ciudades por solo 5 supervisores sugiere una sobrecarga operat
 *Análisis por Sucursal:*
 Autoservicios muesta tiene un alto volumen de producto por vencer y conjuntamento con los productos vencidos son superiores al volumen de productos vendidos. Bajo rendimiento generalizado en las otras sucursales.
 
-*Rotación por Mes*
+*Rotación por Mes:*
 El año comenzó con un 70% de productos por vencer y 15% de productos vencidos, alcanzando su punto crítico en febrero con un 80% de productos por vencer y 8% de productos vencidos. En marzo, los productos por vencer disminuyeron a 55% y los vencidos aumentaron a 11%, tendencia que mejoró en abril con 42% de productos por vencer y 10% de productos vencidos. Sin embargo, mayo mostró un retroceso, aumentando a 62% los productos por vencer, aunque los productos vencidos se redujeron a 8%.
 
 El período de junio a octubre mostró una alta volatilidad: comenzó con el mejor rendimiento en junio (42% total de productos en riesgo), seguido por un deterioro significativo en julio (85% en riesgo), para finalmente mostrar una recuperación gradual hasta octubre, cerrando con solo 28% de productos en riesgo.
@@ -61,10 +61,8 @@ La situación actual muestra un problema sistémico en la gestión de inventario
 
 ## **5. Recomendaciones:**
 - Implementar un plan para la gestión de los 558 productos próximos a vencer.
-- Investigar el éxito de la región Occidente y Santander para replicar mejores prácticas
+- Investigar el éxito de la región Occidente y Santander para replicar mejores prácticas.
 - Establecer alertas tempranas para los productos con baja rotación.
 - Desarrollar promociones para generar ventas (combos, ofertas, etc.) 
 - Balancear cargas de supervisores.
 - Implementar sistema de incentivos basado en rotación efectiva.
-
-
