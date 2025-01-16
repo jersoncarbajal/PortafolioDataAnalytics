@@ -52,11 +52,12 @@ La puntualidad es mejor en la mañana donde el porcentaje de entregas puntuales 
 La mayor parte de las ganancias (84.24%) se generan en el turno de la mañana. Los miércoles y jueves muestran picos de ganancia.
 </p>
 <p align=center>
-<img src="src\dashboard003.png" height="400" weight="450">
+<img src="src\dashboard004.png" height="400" weight="450">
 </p>
 
-Las mayores ganancias se concentran entre las 00:00-04:00 horas y existe una caída significativa después de las 05:00.  
-Los días 3, 12, 23 y 29 muestran picos de ganancia mientras que se observan caídas notables los días 4, 14, 24 y 31. 
+Las mayores ganancias se concentran entre las 00:00-04:00 horas, con picos de 1.27 millones y existe una caída significativa después de las 05:00. Las horas de la tarde (12:00-16:00) muestran la actividad más baja.
+
+Los días 3, 12, 13, 23 y 29 muestran picos de ganancia (0.33-0.35 millones) mientras que se observan caídas notables los días 4, 14, 24 y 31 (cercanas a 0.08 millones). 
 
 ## **4. Dashboard**
 El dashboard desarrollado se encuentra en el siguiente enlace [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDUwNDlmYTktY2JmMS00NmI3LWFkYTUtOWY4NjcxMjliOWVlIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9)
