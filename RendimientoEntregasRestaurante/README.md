@@ -59,7 +59,7 @@ Las mayores ganancias se concentran entre las 00:00-04:00 horas, con picos de 1.
 
 Los días 3, 12, 13, 23 y 29 muestran picos de ganancia (0.33-0.35 millones) mientras que se observan caídas notables los días 4, 14, 24 y 31 (cercanas a 0.08 millones). 
 
-## **4. Dashboard**
+## **3. Dashboard**
 El dashboard desarrollado se encuentra en el siguiente enlace [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDUwNDlmYTktY2JmMS00NmI3LWFkYTUtOWY4NjcxMjliOWVlIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9)
 
 
