@@ -22,6 +22,12 @@ Este proyecto se enfoca en la rotación de productos en el rubro de alimentos. E
 Este proyecto de control financiero para la Fundación Potenciar Solidario permite realizar el seguimiento detallado de las finanzas de la ONG. La solución brinda visualizaciones de tendencias e identifica patrones facilitando la toma de decisiones. 
 [Enlace del proyecto](https://github.com/jersoncarbajal/PortafolioDataAnalytics/tree/main/ControlFinancieroFundacion)
 
+
+## Rendimiento de Entregas Restaurante
+Este proyecto tiene por finalidad mejorar los tiempos de entrega y la satisfacción del cliente. La solución brinda visualizaciones de tendencias e identifica patrones facilitando la toma de decisiones para optimizar los procesos de entrega y mejorar la experiencia del cliente. 
+[Enlace del proyecto](https://github.com/jersoncarbajal/PortafolioDataAnalytics/tree/main/ControlFinancieroFundacion)
+
+
 ## Proyecto de Ventas de Videojuegos
 Este proyecto se enfoca en identificar nichos para desarrollar nuevos productos en el mercado de los videojuegos. El objetivo principal es proporcionar insights para un grupo inversor interesado en invertir en el desarrollo de nuevos productos. La solución busca identificar oportunidades y presentarlas de manera clara y precisa para la toma de decisiones estratégicas.
 [Enlace del proyecto](https://github.com/jersoncarbajal/PortafolioDataAnalytics/tree/main/VentasVideojuegos)
